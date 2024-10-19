@@ -17,6 +17,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/maksudpranto/eCommerce-with-Playwrigt-Python",
+    "accountId": "e382acda-1e25-4cee-a6b6-7e32167edd2e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -28,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Volumes/EXT - HDD/Deadliest/Automation/PlayWright/eCommerce Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,6 +74,7 @@
       <workItem from="1729311203418" duration="914000" />
       <workItem from="1729312156801" duration="352000" />
       <workItem from="1729312532874" duration="240000" />
+      <workItem from="1729312924684" duration="386000" />
     </task>
     <servers />
   </component>
